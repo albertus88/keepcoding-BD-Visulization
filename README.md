@@ -1,4 +1,4 @@
-# keepcoding-BD-Visulization
+# keepcoding-BD-Visualization
 
 El siguiente enlace es un link al google doc con la explicación de la práctica.
 
